@@ -1,5 +1,5 @@
 {
-  "name": "testban",
+  "name": "termchat",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
